@@ -12,5 +12,17 @@ Diagramas de Entidad-Relación (DER) para bases de datos y consultas SQL, elabor
  - Caso "Secretaría de Investigación"
  - Caso "Prode Qatar 2022"
  - Caso "Simpson S.A"
+------------------------------
+Power BI Dashboards:
+- Analysis of international flight operations data.
+- Analysis of retail market sales data.
+- Analysis of Amazon products and their categories.
+
+Entity-Relationship Diagrams (ERDs) for databases and SQL queries, created based on case studies from group projects in the Data Systems course:
+- "Morrison Theater" Case
+- "Sales Cancellations" Case
+- "Research Department" Case
+- "Qatar 2022 Betting" Case
+- "Simpson S.A." Case
 
 
